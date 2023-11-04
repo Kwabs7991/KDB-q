@@ -48,3 +48,6 @@ It is widely used by almsot all financial insititutions (Market Makers, Investem
 ->  DLL - https://learn.microsoft.com/en-us/cpp/build/dlls-in-visual-cpp?view=msvc-170 <br>
 ->  DLL - https://www.codementor.io/@a_hathon/building-and-using-dlls-in-c-d7rrd4caz <br>
 ->  DLL - https://shorturl.at/bm269 <br>
+->  cosine and arccosine - https://code.kx.com/q/ref/cos/ <br>
+->
+
